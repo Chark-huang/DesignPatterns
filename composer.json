@@ -1,0 +1,11 @@
+{
+    "name": "chark-huang/design-patterns",
+    "description": "learning design-patterns",
+    "type": "project",
+    "require": {},
+    "autoload":{
+    	"psr-4": {
+    		"DesignPatterns\\":""
+    	}
+    }
+}
